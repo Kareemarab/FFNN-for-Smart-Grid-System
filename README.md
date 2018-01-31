@@ -1,2 +1,2 @@
 # FFNN-for-Smart-Grid-System
-awesomeness
+Feed-Forward Neural Network used for energy smart grid systems and stuff
