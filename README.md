@@ -13,4 +13,5 @@ These are algorithms built for the purpose of research and development of the Sm
 ## Usage
 Access directory and run
 > python nn.py
+
 pretty obvious duhh
