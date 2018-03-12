@@ -40,7 +40,7 @@ apt4 = list(data.Apartment4)
 apt5 = list(data.Apartment5)
 
 print(time)
-'''
+
 ### Training data ###
 # Inputs
 time_tr = times[0:6128]
@@ -340,4 +340,3 @@ print("RMSE:", "%.3f" % f, "%\n")
 print(hi)
 
 plt.show()
-'''
