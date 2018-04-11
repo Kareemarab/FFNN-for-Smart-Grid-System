@@ -11,5 +11,5 @@ These are algorithms built for the purpose of research and development of the Sm
 #### 4. Data Postprocessing
 
 ### Usage - How To
-> figure it out lol
+> figure it out loll
 
