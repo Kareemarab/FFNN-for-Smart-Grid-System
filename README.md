@@ -7,8 +7,7 @@ These are algorithms built for the purpose of research and development of the Sm
 
 #### 1. Data Preprocessing
 #### 2. Forward Propagation
-#### 3. Back Propagation - Stochastic Gradient Decent (POST-BP)
-#### 4. Data Postprocessing
+#### 3. Data Postprocessing
 
 ### Usage - How To
 > figure it out loll
