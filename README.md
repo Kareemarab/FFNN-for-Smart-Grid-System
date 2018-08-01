@@ -12,3 +12,4 @@ These are algorithms built for the purpose of research and development of the Sm
 ### Usage - How To
 > figure it out loll
 
+Conference Publication: https://ieeexplore.ieee.org/document/8423021/
