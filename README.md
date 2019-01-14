@@ -9,7 +9,4 @@ These are algorithms built for the purpose of research and development of the Sm
 #### 2. Forward Propagation
 #### 3. Data Postprocessing
 
-### Usage - How To
-> figure it out loll
-
 Conference Publication: https://ieeexplore.ieee.org/document/8423021/
